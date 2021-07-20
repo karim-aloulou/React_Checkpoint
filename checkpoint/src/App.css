@@ -1,0 +1,33 @@
+*{padding: 0;
+margin: 0;
+box-sizing: border-box;
+font-style: italic;
+  color:cadetblue}
+
+h1{
+  font-style: italic;
+  color:yellowgreen
+ 
+}
+
+ul{ display: flex;
+  direction: row-reverse; 
+  justify-content:space-around;
+  width: auto;
+  list-style-type:none;
+}
+li
+{display:flex;
+padding-left: 15px;}
+header
+{
+  display: flex;
+justify-content:space-around;
+position: sticky;
+
+align-items: center;
+text-align: center;
+background-color: antiquewhite;
+margin-bottom: 5px;
+
+}
